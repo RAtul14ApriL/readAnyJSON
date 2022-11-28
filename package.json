@@ -1,0 +1,20 @@
+{
+  "name": "readanyjson",
+  "version": "1.0.0",
+  "description": "This server can read any json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "fetch",
+    "read",
+    "get"
+  ],
+  "author": "RAtul14ApriL",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
